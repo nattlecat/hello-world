@@ -1,2 +1,1 @@
-# hello-world
-First
+Github is a repository of code and an online space to collaborate on that code.  You can create code or any text in a repository and then create different versions of it, before committing changes to the main text or code.  Github is based on git, which is a version control software created by Linus Torvalds.  Github is very widely used.
